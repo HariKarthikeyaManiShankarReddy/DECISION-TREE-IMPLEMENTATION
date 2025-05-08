@@ -16,4 +16,3 @@ DESCRIPTION:
 
 *OUTPUT*:
 
-![Image](https://github.com/user-attachments/assets/e14a384f-4afa-440e-a430-03e5cae6ff61)
