@@ -70,6 +70,10 @@ Methods Used in the implementation is:
    This method returns precision, recall,f1score,support for each class. It helps to understand the model performance in detail.
 
 
+Dataset:
+The dataset contains 1000 records and 21 columns. It is related to credit risk assessment the dataset contains data to classify wether a person has a good or bad credit risk.
+
+
 
 
 
