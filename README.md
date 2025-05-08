@@ -32,6 +32,8 @@ Gini Impurity:
   [Gini=1-sigma (1 to n)*Probability of class(Pi)]
   if Gini=0 the node is perfectly purity.
   Gini is faster to compute.
+
+
 Entropy: 
   It is also one of the measure used in Decision trees. Entropy comes from Information theory it measures unpredictibility or disorder in a set.
   The fromula used for calculating Entropy is:
