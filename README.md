@@ -118,3 +118,14 @@ Based on features such as age,savings,employment,credit_history and more..The ta
 ![Image](https://github.com/user-attachments/assets/94267de6-eaf9-472f-aea5-3efb3295ceec)
 
 ![Image](https://github.com/user-attachments/assets/bb8aa10d-0841-4eee-8197-47b12e665028)
+
+
+Resources:
+
+1. Chatgpt
+
+2. Geeks for Geeks
+
+3. youtube
+
+4.Machine Learning using python by Manaranjan Pradhan and U Dinesh  
