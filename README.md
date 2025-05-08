@@ -54,6 +54,7 @@ There are mainly two measures used for the decision tree classifier:
 2. Entropy
 
 Gini Impurity:
+
   It is used in CART(Classification Regression Trees). Gini measures how often a randomly chosen sample would be incorrectly calssified if it were labeled randomly based on class distribution.
   The formula used to calculate is :
   [Gini=1-sigma (1 to n)*Probability of class(Pi)]
@@ -62,6 +63,7 @@ Gini Impurity:
 
 
 Entropy: 
+
   It is also one of the measure used in Decision trees. Entropy comes from Information theory it measures unpredictibility or disorder in a set.
   The fromula used for calculating Entropy is:
   [Entropy=-sigma(1 to n)probability of class(Pi)*log base2* probability of class(Pi)]
@@ -76,25 +78,31 @@ Coming to the code implementaion the libraries used are:
 
 3.Matplotlib.pyplot --> Data Visualization and used for plotting tree
 
-4.Scikit Learn  --> It is used for Preprocessing Data, Splitting Data, importing DecisionTreeClassifier(), Evaluating Model accuracy, Visualizing model.
-scikit learn(sklearn) is a powerful machine learning libray in python.
+4.Scikit Learn  --> It is used for Preprocessing Data, Splitting Data, importing DecisionTreeClassifier(), Evaluating Model accuracy, Visualizing model. scikit learn(sklearn) is a powerful machine learning libray in python.
 
 
 Methods Used in the implementation is:
 1. Pd.read_csv('file_path.csv')
    This method is used to load the dataset from comma seperated value into pandas dataframe.
+   
 2. LabelEncoder()
    This encodes string labels into integers (yes,no to 1 or 0)
+   
 3. train_test_split(x,hy,test_size=0.2,random_state=42)
    This is used for splitting data into 80% for training and 20% for the testing
+   
 4. model.fit()
    This trains the decision tree model using the training data
+   
 5. predict()
    This makes predictions on test set
+   
 6. accuracy_score()
    This method compares actual test and predicted values and returns a value between 0 and 1.
+   
 7. classification_report()
    This method returns precision, recall,f1score,support for each class. It helps to understand the model performance in detail.
+   
 8. plot_tree()
    This method visualizes the decision tree structure.
 
