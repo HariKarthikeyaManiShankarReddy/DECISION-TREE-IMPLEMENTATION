@@ -44,8 +44,11 @@ Entropy:
 
 Coming to the code implementaion the libraries used are:
 1.Pandas --> Used for data manipulation
+
 2.Numpy  -->Used for Numerical computations
+
 3.Matplotlib.pyplot --> Data Visualization and used for plotting tree
+
 4.Scikit Learn  --> It is used for Preprocessing Data, Splitting Data, importing DecisionTreeClassifier(), Evaluating Model accuracy, Visualizing model.
 scikit learn(sklearn) is a powerful machine learning libray in python.
 
