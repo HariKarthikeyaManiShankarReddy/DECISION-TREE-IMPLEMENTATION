@@ -1,18 +1,4 @@
-# DECISION-TREE-IMPLEMENTATION
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: CHENNAREDDY HARI KARTHIKEYA
-
-*INTERN ID*: CT06DL832
-
-*DOMAIN*: MACHINE LEARNING 
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTHOSH KUMAR
-
-DESCRIPTION:
+*DESCRIPTION OF THE PROJECT*:
 
 A Decision Tree is a Supervised Machine Learning Algorithm used for classification and regression tasks. It models decisions and their possible cmsequences as a tree like structure made up of nodes and branches.
 
