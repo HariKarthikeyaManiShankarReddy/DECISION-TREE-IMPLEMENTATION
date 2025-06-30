@@ -1,3 +1,5 @@
+# DECISION TREE IMPLEMENTATION
+
 *DESCRIPTION OF THE PROJECT*:
 
 A Decision Tree is a Supervised Machine Learning Algorithm used for classification and regression tasks. It models decisions and their possible cmsequences as a tree like structure made up of nodes and branches.
